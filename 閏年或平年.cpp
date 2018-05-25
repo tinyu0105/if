@@ -2,10 +2,10 @@
 using namespace std;
 int main(){
 	int a,b,c;
-	cout<<"¦~¥÷"<<endl;
+	cout<<"å¹´åˆ†"<<endl;
 	cin>>a;
 	if(a%4==0&&a%100!=0||a%400==0)
-	cout<<"¶|¦~";
+	cout<<"é–å¹´";
 	else
-	cout<<"¥­¦~"; 
+	cout<<"å¹³å¹´"; 
 } 
